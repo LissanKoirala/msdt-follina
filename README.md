@@ -12,6 +12,10 @@
 Not Open Sourced
 
 
+## As it's a rtf file, it doesn't even need to be opened
+Just clicking the rtf file once will set the thing off and the remote-access with be gained
+(The Explorer Preview)
+
 --------------
 
 Create a "Follina" MS-MSDT attack with a malicious Microsoft Word document and stage a payload with an HTTP server.
